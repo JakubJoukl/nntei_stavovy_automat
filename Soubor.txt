@@ -1,0 +1,4 @@
+2
+A
+S [a-zA-Z] A
+A [a-zA-Z0-9] A
